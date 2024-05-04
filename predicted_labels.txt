@@ -1,0 +1,10 @@
+Predicted label for cropped1.jpg: D
+Predicted label for cropped2.jpg: L
+Predicted label for cropped3.jpg: 2
+Predicted label for cropped4.jpg: C
+Predicted label for cropped5.jpg: A
+Predicted label for cropped6.jpg: D
+Predicted label for cropped7.jpg: 0
+Predicted label for cropped8.jpg: 3
+Predicted label for cropped9.jpg: 1
+Predicted label for cropped10.jpg: 1
